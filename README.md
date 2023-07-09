@@ -5,7 +5,7 @@
 
 https://lgfvarella.github.io/AluraPlus/
 
-AluraPlus é um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura que é construído durante o curso "HTML e CSS" . [Alura](https://www.alura.com.br/curso-online-html-css-praticando-html-css)
+AluraPlus é um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura que é construído durante o curso "HTML e CSS" . [Alura](https://cursos.alura.com.br/course/angular-explorando-framework)
 
 A aplicação tem a finalidade de ensinar:
 - Construir um site utilizando HTML e CSS
