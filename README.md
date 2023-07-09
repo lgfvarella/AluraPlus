@@ -15,7 +15,7 @@ A aplicação tem a finalidade de ensinar:
 - Realizar o deploy de um site através do Github Pages ou Vercel
 
 ## Layout web
-![Web 1](https://github.com/lgfvarella/AluraMidi/blob/main/img/AluraPlus.png)
+![Web 1](https://github.com/lgfvarella/AluraPlus/blob/main/img/AluraPlus.png)
 
 # Tecnologias utilizadas
 ## Front end
